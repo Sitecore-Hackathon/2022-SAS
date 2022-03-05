@@ -13,7 +13,7 @@
   - Using this module we can import tags, categories, authors and posts from WordPress XML to Sitecore using PowerShell script
 
 ## Video link
-⟹ [https://youtu.be/GiC1hJBxsEc](#video-link)
+⟹ [https://youtu.be/GiC1hJBxsEc](https://youtu.be/GiC1hJBxsEc)
 
 
 
